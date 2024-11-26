@@ -3,13 +3,10 @@ apply from: '../release-bintray.gradle'
 
 android {
     compileSdkVersion rootProject.compileSdkVersion
-    buildToolsVersion rootProject.buildToolsVersion
 
     defaultConfig {
         minSdkVersion 14
         targetSdkVersion rootProject.targetSdkVersion
-        versionCode 1
-        versionName "1.0"
     }
     buildTypes {
         release {
