@@ -39,6 +39,6 @@ ext {
             cardView      : 'androidx.cardview:cardview:1.0.0',
             designSupport : 'com.google.android.material:material:1.0.0',
             colorPicker   : 'com.github.Kunzisoft:AndroidClearChroma:2.3',
-            lovelyDialog  : 'com.github.CristianFloresCh:LovelyDialog:v1.1.1'
+            lovelyDialog  : 'com.github.CristianFloresCh:LovelyDialog:v1.1.2'
     ]
 }
