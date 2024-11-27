@@ -21,5 +21,6 @@ dependencies {
     implementation deps.androidxCompat
     implementation deps.cardView
     api deps.colorPicker
+    implementation 'com.github.CristianFloresCh:LovelyDialog:v1.1.2'
 }
 

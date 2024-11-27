@@ -1,4 +1,4 @@
-package com.yarolegovich.lovelyuserinput;
+package com.yarolegovich.mp;
 
 import android.content.Context;
 import androidx.annotation.ColorInt;
